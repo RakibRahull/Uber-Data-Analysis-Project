@@ -15,3 +15,7 @@ To analyze Uber's June 2024 ride data, providing actionable business insights to
 8. Which areas are high trip density zones and low trip density zones?
 9. Which was the farthest trip?
 10. What are the top 3 surge locations?
+11. Dashboard Interaction 
+- <a href="https://github.com/RakibRahull/Uber-Data-Analysis-Project/blob/main/Executive%20Summary.PNG">Executive Summary</a>
+- <a href="https://github.com/RakibRahull/Uber-Data-Analysis-Project/blob/main/Regional%20Analysis.PNG">Regional Analysis</a>
+
