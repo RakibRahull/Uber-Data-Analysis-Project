@@ -22,3 +22,4 @@ To analyze Uber's June 2024 ride data, providing actionable business insights to
 The data analysis process began with meticulous data cleaning and transformation using Power Query to handle missing values and ensure data integrity. Subsequently, key performance indicators were calculated with DAX measures and visualized through interactive charts and reports. These were then compiled into a comprehensive Power BI dashboard with dynamic slicers, enabling flexible and detailed analysis.
 ## Dashboard
 ![Executive Summary](https://github.com/RakibRahull/Uber-Data-Analysis-Project/blob/main/Executive%20Summary.PNG)
+![Regional Analysis](https://github.com/RakibRahull/Uber-Data-Analysis-Project/blob/main/Regional%20Analysis.PNG)
