@@ -23,3 +23,11 @@ The data analysis process began with meticulous data cleaning and transformation
 ## Dashboard
 ![Executive Summary](https://github.com/RakibRahull/Uber-Data-Analysis-Project/blob/main/Executive%20Summary.PNG)
 ![Regional Analysis](https://github.com/RakibRahull/Uber-Data-Analysis-Project/blob/main/Regional%20Analysis.PNG)
+## Project Insights
+1. Trips and earnings are significantly higher on weekends, with Saturday and Sunday being the top-performing days.
+2. Uberpay is the most common payment method, while the UberX vehicle type is the most frequently requested.
+3. The top three contributing metropolitan areas for both trips and earnings are Manhattan, Queens and Brooklyn indicating high demand zones.
+4. Analysis identified key high-density zones that account for a majority of the trips, while the farthest trips often follow specific inter-city routes.5. Surge pricing is most prevalent in a few specific locations, likely tied to peak-hour demand or special events.
+5. Surge pricing is most prevalent in a few specific locations, likely tied to peak-hour demand or special events.
+
+
