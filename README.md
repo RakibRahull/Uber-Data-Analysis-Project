@@ -1,2 +1,3 @@
-# Uber-Data-Analysis-Project
-This is a Power BI project analyzing Uber's June 2024 ride data. Using Power Query and DAX, it details a complete data analysis workflow, from cleaning to visualizing key metrics and regional insights for a comprehensive look at operational performance.
+#Uber-Data-Analysis-Project (Interactive Dashboard creation using Power Bi)
+##Project Objective
+To analyze Uber's June 2024 ride data, providing actionable business insights to help management make data-driven decisions that optimize operational efficiency and inform strategic growth.
